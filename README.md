@@ -5,7 +5,11 @@
 <!-- ░░░  HEADER  ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:000000,55:04001C,80:0a0035,100:100050&height=300&section=header&text=SAKSHU&fontSize=115&fontColor=00cfff&fontAlignY=55&desc=Game+Dev+%E2%80%A2+CEH+Certified+%E2%80%A2+DevOps+%E2%80%A2+Bot+Engineer+%E2%80%A2+Script+Dev&descSize=16&descAlignY=75&descColor=8888ff&animation=fadeIn&stroke=00cfff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:05003a,50:0a006b,80:1200a0,100:0d00cc&height=80&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,20:040030,50:08004f,80:0a0060,100:000000&height=260&text=SAKSHU&fontSize=120&fontColor=00cfff&fontAlignY=55&animation=twinkling&stroke=0033ff&strokeWidth=2" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d00cc,20:1200a0,50:0a006b,80:05003a,100:000000&height=80&section=footer&reversal=true" width="100%"/>
 
 </div>
 
@@ -675,6 +679,10 @@ const sakshu = {
 <!-- ░░░  FOOTER  ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:100050,30:0a0035,55:04001C,80:000000,100:000000&height=200&section=footer&text=SakshuOfficialOS&fontSize=28&fontColor=00cfff&fontAlignY=50&desc=Build+from+scratch.+Always.&descSize=14&descColor=8888ff&descAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:05003a,50:0a006b,80:1200a0,100:0d00cc&height=80&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,20:040030,50:08004f,80:0a0060,100:000000&height=140&text=SakshuOfficialOS&fontSize=32&fontColor=00cfff&fontAlignY=50&desc=Build+from+scratch.+Always.&descSize=14&descColor=6677ff&descAlignY=75&animation=twinkling" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d00cc,20:1200a0,50:0a006b,80:05003a,100:000000&height=80&section=footer&reversal=true" width="100%"/>
 
 </div>
