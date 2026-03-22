@@ -5,11 +5,7 @@
 <!-- ░░░  HEADER  ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:05003a,50:0a006b,80:1200a0,100:0d00cc&height=80&section=header" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,20:040030,50:08004f,80:0a0060,100:000000&height=260&text=SAKSHU&fontSize=120&fontColor=00cfff&fontAlignY=55&animation=twinkling&stroke=0033ff&strokeWidth=2" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d00cc,20:1200a0,50:0a006b,80:05003a,100:000000&height=80&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,40:0a001f,70:16003d,100:2a005f&height=200&section=header&text=SAKSHU&fontSize=105&fontColor=e0aaff&fontAlign=75&fontAlignY=55&desc=Game%20Dev%20%20%7C%20%20CEH%20Certified%20%20%7C%20%20DevOps%20%20%7C%20%20Bot%20Engineer%20%20%7C%20%20Script%20Dev&descSize=14&descAlign=69&descAlignY=80&descColor=9d7fe3&animation=fadeIn&rotate=0" width="100%"/>
 
 </div>
 
@@ -679,10 +675,24 @@ const sakshu = {
 <!-- ░░░  FOOTER  ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:05003a,50:0a006b,80:1200a0,100:0d00cc&height=80&section=header" width="100%"/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,20:040030,50:08004f,80:0a0060,100:000000&height=140&text=SakshuOfficialOS&fontSize=32&fontColor=00cfff&fontAlignY=50&desc=Build+from+scratch.+Always.&descSize=14&descColor=6677ff&descAlignY=75&animation=twinkling" width="100%"/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d00cc,20:1200a0,50:0a006b,80:05003a,100:000000&height=80&section=footer&reversal=true" width="100%"/>
+<sub>
+<img src="https://skillicons.dev/icons?i=github" width="14" valign="middle"/>
+&nbsp; README crafted by
+<a href="https://github.com/Sakshu1347"><b>Sakshu1347</b></a>
+&nbsp;·&nbsp; Template & design credits:
+<a href="https://github.com/SakshuOfficialOS"><b>SakshuOfficialOS</b></a>
+&nbsp;·&nbsp; Built with
+<img src="https://img.shields.io/badge/capsule--render-vercel-00cfff?style=flat-square&labelColor=0a0a0a" height="16" valign="middle"/>
+<img src="https://img.shields.io/badge/shields.io-badges-8888ff?style=flat-square&labelColor=0a0a0a" height="16" valign="middle"/>
+<img src="https://img.shields.io/badge/skillicons.dev-icons-e0aaff?style=flat-square&labelColor=0a0a0a" height="16" valign="middle"/>
+</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2a005f,30:16003d,60:0a001f,100:000000&height=160&section=footer&text=SakshuOfficialOS&fontSize=28&fontColor=e0aaff&fontAlign=30&fontAlignY=55&desc=Build%20from%20scratch.%20Always.&descSize=13&descAlign=30&descAlignY=75&descColor=9d7fe3&reversal=true&animation=fadeIn" width="100%"/>
 
 </div>
