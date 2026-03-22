@@ -7,11 +7,57 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:050520,50:0a003a,75:1a0050,100:2d0080&height=80&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,30:04001a,60:080030,100:0f0050&height=140&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:050520,100:0d0d0d&height=220&text=SAKSHU&fontSize=110&fontColor=ffffff&fontAlignY=55&desc=◈%20Builder%20%20%20◈%20Hacker%20%20%20◈%20Gamer%20%20%20◈%20Creator%20%20%20◈%20Engineer&descSize=17&descAlignY=78&descColor=7c8aff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:04001a,60:04001a,100:000000&height=240&text=SAKSHU&fontSize=120&fontColor=00cfff&fontAlignY=52&animation=blinking" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0080,25:1a0050,50:0a003a,75:050520,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
+<br/>
+
+<!-- ICON TAGLINE ROW — no emojis, all icon badges -->
+<img src="https://img.shields.io/badge/--%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20--%200a0a0a?style=flat-square&labelColor=000000&color=000000" width="100%"/>
+
+<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%20%20Game%20Dev%20%20%E2%80%94%20%20CEH%20Certified%20%20%E2%80%94%20%20DevOps%20%20%E2%80%94%20%20Website%20Dev%20%20%E2%80%94%20%20Script%20Dev%20%20%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-04001a?style=flat-square&labelColor=04001a&color=04001a"/>
+
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=unity" width="28"/>
+<br/><sub>Game Dev</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="28"/>
+<br/><sub>CEH Certified</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="28"/>
+<br/><sub>DevOps</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="28"/>
+<br/><sub>Script Dev</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="28"/>
+<br/><sub>Website Dev</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=discord" width="28"/>
+<br/><sub>Bot Engineer</sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=blender" width="28"/>
+<br/><sub>3D Artist</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/MC-62B47A?style=flat-square&logo=minecraft&logoColor=white" height="28"/>
+<br/><sub>MC Modder</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0050,60:04001a,100:000000&height=140&section=footer&reversal=true" width="100%"/>
 
 </div>
 
@@ -21,7 +67,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&repeat=true&width=860&lines=%F0%9F%9A%80+Game+Developer+%7C+Unity+%7C+Roblox+Studio+%7C+Steam;%F0%9F%A4%96+AI+%26+Discord+Bot+Engineer+%7C+Python+Automation;%F0%9F%9B%A1%EF%B8%8F+Certified+Ethical+Hacker+%7C+DevOps+%7C+Cybersecurity;%F0%9F%8C%90+Website+Designer+%26+Developer+%7C+HTML+%7C+CSS+%7C+JS;%F0%9F%8E%AE+Minecraft+Modder+%7C+Fabric+%7C+Performance+Engineering;%E2%98%81%EF%B8%8F+Google+%7C+Microsoft+%7C+IBM+%7C+Amazon+Certified;%F0%9F%94%A5+Self-Taught.+Certified.+Shipping.+Always.;%F0%9F%97%BE+Singapore+%2F+Tokyo+%E2%80%94+Building+globally.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=00CFFF&center=true&vCenter=true&repeat=true&width=880&lines=Game+Developer+--+Unity+%7C+Roblox+Studio+%7C+Steam;AI+%26+Discord+Bot+Engineer+--+Python+Automation;CEH+Certified+--+DevOps+%7C+Cybersecurity+%7C+Linux;Website+Designer+%26+Developer+--+HTML+%7C+CSS+%7C+JS;Modded+Script+Developer+--+Python+%7C+Ruby+%7C+Java;Minecraft+Modder+--+Fabric+%7C+Performance+Engineering;Google+%7C+Microsoft+%7C+IBM+%7C+Amazon+%7C+Meta+Certified;Self-Taught.+Certified.+Shipping.+Always.+%7C+Singapore+%2F+Tokyo)](https://git.io/typing-svg)
 
 <br/>
 
@@ -799,11 +845,11 @@ const sakshu = {
 
 <!-- ░░░░░░░░░░░░░░░░  FOOTER WAVE  ░░░░░░░░░░░░░░░░  -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:050520,50:0a003a,75:1a0050,100:2d0080&height=80&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,30:04001a,60:080030,100:0f0050&height=100&section=header&reversal=false" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:050520,100:0d0d0d&height=100&text=SakshuOfficialOS&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=Build+from+scratch.+Always.&descSize=15&descAlignY=78&descColor=7c8aff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:04001a,100:000000&height=90&text=SakshuOfficialOS&fontSize=30&fontColor=00cfff&fontAlignY=50&desc=Build+from+scratch.+Always.&descSize=14&descColor=6a7fff&descAlignY=78&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0080,25:1a0050,50:0a003a,75:050520,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0050,60:04001a,100:000000&height=100&section=footer&reversal=true" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--  Snake workflow setup — add .github/workflows/snake.yml to repo:    -->
