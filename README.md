@@ -3,61 +3,26 @@
 <!-- ║         github.com/SakshuOfficialOS  ·  Built with precision   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ░░░░░░░░░░░░░░░░  ANIMATED HEADER BANNER  ░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░  HEADER  ░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,30:04001a,60:080030,100:0f0050&height=140&section=header" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:04001a,60:04001a,100:000000&height=240&text=SAKSHU&fontSize=120&fontColor=00cfff&fontAlignY=52&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:000000,55:04001C,80:0a0035,100:100050&height=320&section=header&text=SAKSHU&fontSize=115&fontColor=00cfff&fontAlignY=55&desc=Game+Dev+%E2%80%A2+CEH+Certified+%E2%80%A2+DevOps+%E2%80%A2+Bot+Engineer+%E2%80%A2+Script+Dev&descSize=16&descAlignY=75&descColor=8888ff&animation=fadeIn&stroke=00cfff&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<!-- ICON TAGLINE ROW — no emojis, all icon badges -->
-<img src="https://img.shields.io/badge/--%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20---%20%20%20%20%20--%200a0a0a?style=flat-square&labelColor=000000&color=000000" width="100%"/>
-
-<img src="https://img.shields.io/badge/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%20%20Game%20Dev%20%20%E2%80%94%20%20CEH%20Certified%20%20%E2%80%94%20%20DevOps%20%20%E2%80%94%20%20Website%20Dev%20%20%E2%80%94%20%20Script%20Dev%20%20%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-04001a?style=flat-square&labelColor=04001a&color=04001a"/>
+<!-- ICON SKILL ROW -->
+<img src="https://skillicons.dev/icons?i=unity,linux,docker,python,html,discord,blender,java&theme=dark&perline=8"/>
 
 <br/><br/>
 
-<table border="0" cellspacing="0" cellpadding="6">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=unity" width="28"/>
-<br/><sub>Game Dev</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="28"/>
-<br/><sub>CEH Certified</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="28"/>
-<br/><sub>DevOps</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="28"/>
-<br/><sub>Script Dev</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="28"/>
-<br/><sub>Website Dev</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=discord" width="28"/>
-<br/><sub>Bot Engineer</sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=blender" width="28"/>
-<br/><sub>3D Artist</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/MC-62B47A?style=flat-square&logo=minecraft&logoColor=white" height="28"/>
-<br/><sub>MC Modder</sub>
-</td>
-</tr>
-</table>
+<!-- ░░░░  PROFILE BADGES ROW  ░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0050,60:04001a,100:000000&height=140&section=footer&reversal=true" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-SakshuOfficialOS-00cfff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/SakshuOfficialOS)&nbsp;
+[![Location](https://img.shields.io/badge/Singapore%20%2F%20Tokyo-8888ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0a0a)](https://github.com/SakshuOfficialOS)&nbsp;
+[![Game](https://img.shields.io/badge/Building%20Apple%20on%20Steam-00ff88?style=for-the-badge&logo=steam&logoColor=white&labelColor=0a0a0a)](https://github.com/SakshuOfficialOS)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-Sakshu%231347-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a)](https://discord.com)&nbsp;
+[![Views](https://img.shields.io/badge/PROFILE%20VIEWS-72K%2B-00cfff?style=for-the-badge&logo=eye&logoColor=white&labelColor=0a0a0a)](https://github.com/SakshuOfficialOS)
 
 </div>
 
@@ -67,21 +32,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=00CFFF&center=true&vCenter=true&repeat=true&width=880&lines=Game+Developer+--+Unity+%7C+Roblox+Studio+%7C+Steam;AI+%26+Discord+Bot+Engineer+--+Python+Automation;CEH+Certified+--+DevOps+%7C+Cybersecurity+%7C+Linux;Website+Designer+%26+Developer+--+HTML+%7C+CSS+%7C+JS;Modded+Script+Developer+--+Python+%7C+Ruby+%7C+Java;Minecraft+Modder+--+Fabric+%7C+Performance+Engineering;Google+%7C+Microsoft+%7C+IBM+%7C+Amazon+%7C+Meta+Certified;Self-Taught.+Certified.+Shipping.+Always.+%7C+Singapore+%2F+Tokyo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=700&color=00CFFF&center=true&vCenter=true&repeat=true&width=750&lines=Game+Developer+%7C+Unity+%7C+Roblox+Studio+%7C+Steam;AI+%26+Discord+Bot+Engineer+%7C+Python;CEH+Certified+%7C+DevOps+%7C+Cybersecurity+%7C+Linux;Website+Designer+%26+Developer+%7C+HTML+CSS+JS;Modded+Script+Developer+%7C+Python+Ruby+Java;Minecraft+Modder+%7C+Fabric+Performance+Tools;Google+Microsoft+IBM+Amazon+Meta+Certified;Self-Taught.+Certified.+Always+Shipping.)](https://git.io/typing-svg)
 
-<br/>
-
-<!-- ░░░░  PROFILE BADGES ROW  ░░░░ -->
-
-[![GitHub](https://img.shields.io/badge/GitHub-SakshuOfficialOS-00e5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/SakshuOfficialOS)&nbsp;
-[![Location](https://img.shields.io/badge/Singapore%20%2F%20Tokyo-b388ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0a0a)](https://github.com/SakshuOfficialOS)&nbsp;
-[![Game](https://img.shields.io/badge/Building%20Apple%20on%20Steam-00ff88?style=for-the-badge&logo=steam&logoColor=white&labelColor=0a0a0a)](https://github.com/SakshuOfficialOS)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Sakshu%231347-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a)](https://discord.com)&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=SakshuOfficialOS&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SakshuOfficialOS)
+<br/><br/>
 
 </div>
-
-<br/>
 
 <!-- ░░░░░░░░░░░░░░░░  ANIMATED WAVE DIVIDER  ░░░░░░░░░░░░░░░░  -->
 
@@ -620,18 +575,11 @@ const sakshu = {
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
+<br/><br/>
 
-> **Contribution Snake — watch your commits come alive:**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshuOfficialOS/SakshuOfficialOS/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakshuOfficialOS/SakshuOfficialOS/output/github-snake.svg"/>
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/SakshuOfficialOS/SakshuOfficialOS/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-<br/>
-<sub><i>To enable the snake: add a GitHub Actions workflow that generates the snake SVG to your profile repo's <code>output</code> branch.</i></sub>
+<a href="https://github.com/SakshuOfficialOS">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SakshuOfficialOS&theme=react-dark&bg_color=0a0a0a&color=00cfff&line=8888ff&point=00ff88&area=true&hide_border=true&custom_title=Contribution+Activity+Graph"/>
+</a>
 
 </div>
 
@@ -845,11 +793,7 @@ const sakshu = {
 
 <!-- ░░░░░░░░░░░░░░░░  FOOTER WAVE  ░░░░░░░░░░░░░░░░  -->
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,30:04001a,60:080030,100:0f0050&height=100&section=header&reversal=false" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:04001a,100:000000&height=90&text=SakshuOfficialOS&fontSize=30&fontColor=00cfff&fontAlignY=50&desc=Build+from+scratch.+Always.&descSize=14&descColor=6a7fff&descAlignY=78&animation=fadeIn" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0050,60:04001a,100:000000&height=100&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:100050,30:0a0035,55:04001C,80:000000,100:000000&height=200&section=footer&text=SakshuOfficialOS&fontSize=30&fontColor=00cfff&fontAlignY=50&desc=Build+from+scratch.+Always.&descSize=14&descColor=8888ff&descAlignY=70&animation=fadeIn" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--  Snake workflow setup — add .github/workflows/snake.yml to repo:    -->
