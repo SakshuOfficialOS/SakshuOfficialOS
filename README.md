@@ -7,7 +7,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,15:03001C,40:0B0B3B,70:00BFFF,100:7B2FBE&height=260&section=header&text=SAKSHU&fontSize=95&fontColor=00e5ff&fontAlignY=50&desc=Builder%20%E2%80%A2%20Hacker%20%E2%80%A2%20Gamer%20%E2%80%A2%20Creator%20%E2%80%A2%20Engineer&descSize=20&descAlignY=72&descColor=b388ff&animation=scaleIn&stroke=00e5ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:050520,50:0a003a,75:1a0050,100:2d0080&height=80&section=header&reversal=false" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:050520,100:0d0d0d&height=220&text=SAKSHU&fontSize=110&fontColor=ffffff&fontAlignY=55&desc=◈%20Builder%20%20%20◈%20Hacker%20%20%20◈%20Gamer%20%20%20◈%20Creator%20%20%20◈%20Engineer&descSize=17&descAlignY=78&descColor=7c8aff&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0080,25:1a0050,50:0a003a,75:050520,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
 
 </div>
 
@@ -678,24 +682,56 @@ const sakshu = {
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/GAMING-0a0a0a?style=for-the-badge&logo=gamepad&logoColor=00e5ff" height="30" valign="middle"/> &nbsp; The Gamer Side
+## <img src="https://skillicons.dev/icons?i=unity" width="28" valign="middle"/> &nbsp; The Gamer Side
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                     SAKSHU — GAMER CARD  v2.0                   ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  Platform      ──  Custom High-End PC Rig                        ║
-║  Main Game     ──  Minecraft (technical / performance mode)      ║
-║  Mod Stack     ──  Fabric Loader + custom performance configs    ║
-║  Target FPS    ──  240+  (tweaking until it hits)                ║
-║  Also Plays    ──  Modern PC titles — max settings, always       ║
-║  Game Dev      ──  "Apple" on Steam  (Unity + Blender)          ║
-║  Published     ──  Roblox Studio game — live & playable          ║
-║  Creates       ──  Cinematic Minecraft edits + voiceovers        ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center" width="170">
+<img src="https://skillicons.dev/icons?i=windows" width="52"/><br/>
+<img src="https://img.shields.io/badge/PLATFORM-0a0a0a?style=flat-square&labelColor=0a0a0a&color=FFD700"/><br/>
+<sub><b>Custom High-End PC Rig</b></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/MC-62B47A?style=flat-square&logo=minecraft&logoColor=white&labelColor=0a0a0a" width="52" height="52"/><br/>
+<img src="https://img.shields.io/badge/MAIN%20GAME-0a0a0a?style=flat-square&color=62B47A"/><br/>
+<sub><b>Minecraft — Fabric + Perf Mode</b></sub>
+</td>
+<td align="center" width="170">
+<img src="https://skillicons.dev/icons?i=unity" width="52"/><br/>
+<img src="https://img.shields.io/badge/BUILDING-0a0a0a?style=flat-square&color=00e5ff"/><br/>
+<sub><b>"Apple" — Steam Indie Game</b></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/RS-E2231A?style=flat-square&logo=roblox&logoColor=white" width="52" height="52"/><br/>
+<img src="https://img.shields.io/badge/PUBLISHED-0a0a0a?style=flat-square&color=E2231A"/><br/>
+<sub><b>Roblox Studio — Live Game</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/240%2B-FF4500?style=flat-square&labelColor=0a0a0a&logo=speedtest&logoColor=white" width="52" height="36"/><br/>
+<img src="https://img.shields.io/badge/TARGET%20FPS-0a0a0a?style=flat-square&color=FF4500"/><br/>
+<sub><b>Tweaking until it hits</b></sub>
+</td>
+<td align="center" width="170">
+<img src="https://skillicons.dev/icons?i=blender" width="52"/><br/>
+<img src="https://img.shields.io/badge/3D%20ARTIST-0a0a0a?style=flat-square&color=F4792B"/><br/>
+<sub><b>Blender — Assets & Renders</b></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/YT-FF0000?style=flat-square&logo=youtube&logoColor=white" width="52" height="52"/><br/>
+<img src="https://img.shields.io/badge/CREATES-0a0a0a?style=flat-square&color=FF0000"/><br/>
+<sub><b>Cinematic MC Edits + Voiceovers</b></sub>
+</td>
+<td align="center" width="170">
+<img src="https://img.shields.io/badge/MAX-00ff88?style=flat-square&logo=monitor&logoColor=black" width="52" height="36"/><br/>
+<img src="https://img.shields.io/badge/SETTINGS-0a0a0a?style=flat-square&color=00ff88"/><br/>
+<sub><b>All Modern PC Titles</b></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -707,7 +743,7 @@ const sakshu = {
 &nbsp;
 <img src="https://img.shields.io/badge/UNITY%20GAME%20DEV-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
 &nbsp;
-<img src="https://img.shields.io/badge/240%2B%20FPS%20OR%20BUST-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/240%2B%20FPS%20OR%20BUST-FF4500?style=for-the-badge&logo=speedtest&logoColor=white"/>
 
 </div>
 
@@ -763,7 +799,11 @@ const sakshu = {
 
 <!-- ░░░░░░░░░░░░░░░░  FOOTER WAVE  ░░░░░░░░░░░░░░░░  -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00e5ff,30:b388ff,60:7B2FBE,100:000000&height=160&section=footer&text=SakshuOfficialOS&fontSize=30&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Build+from+scratch.+Always.&descSize=14&descColor=cccccc&descAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,25:050520,50:0a003a,75:1a0050,100:2d0080&height=80&section=header&reversal=false" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:050520,100:0d0d0d&height=100&text=SakshuOfficialOS&fontSize=32&fontColor=ffffff&fontAlignY=55&desc=Build+from+scratch.+Always.&descSize=15&descAlignY=78&descColor=7c8aff&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0080,25:1a0050,50:0a003a,75:050520,100:0d0d0d&height=80&section=footer&reversal=true" width="100%"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--  Snake workflow setup — add .github/workflows/snake.yml to repo:    -->
